@@ -1,5 +1,9 @@
 # Allyers
 
+A Mental Wellness Platform that utilizes AI to provide personalised mental health support, suggestions and consultations.
+Allyer’s ChatBuddy allows to input prompts, provide text-based responses, and have them read aloud using voice
+conversion technology
+
 URL to Website: [To see API in Use check out CHAT BUDDY] [First Press SUBMIT button after entering prompt, then after content is generated press GENERATE VOICE to convert text to speech]
 
 https://allyers-hackitup.netlify.app/
